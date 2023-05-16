@@ -1,0 +1,40 @@
+.header /* Header for H1 Cars as a class element */
+{
+	padding: 2.5px;
+	background-color: #4C5760;
+}
+#Top /* Had to use an id to overwrite the class .header, plus the id was there for another funtion.*/
+{
+	color: white; 
+	font-family: monaco, consolas, "Lucida Console", monospace;
+}
+.SubText /* Font selector for sub headers */
+{
+	font-family: consolas, "Lucida Consolas", monospace;
+}
+h1, h2, #creation /* Text align center */
+{
+	text-align: center;
+}
+.SubHeader /* Rules set for Dividers for the classes that were assigned SubHeaders*/
+{
+	background-color: #89909F;
+	padding: 5px;
+}
+#LinksToWeb /* Buttons center, all button had id links to web*/
+{
+	text-align: center;
+}
+button /* Button specifications */
+{
+	background-color: #89909F;
+	border: 2px solid black;
+}
+body /* Body color for main page background */
+{
+	background-color: #ADBABD;
+}
+
+
+
+

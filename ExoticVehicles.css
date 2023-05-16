@@ -1,0 +1,52 @@
+h1, h2 /* To align headers to center*/
+{
+    text-align: center;
+}
+.HeaderFont /* To determine font of h1, Exotic Vehicles */
+{
+    font-family: "Times New Roman", Times, serif;
+}
+body /* To set a base color for background plus text*/
+{
+    background-color:#4C5760;
+    color:#C3B299;
+}
+#Koenigsegg /* Each divider is a headers(subcolumn) */
+{
+padding:2.5%;
+background-color:#1F0318;
+color: rgb(198, 188, 188);
+}
+#Lamborghini 
+{
+    padding:2.5%;
+    background-color: #1F262A;
+    color: rgb(198, 188, 188);
+}
+#Bugatti
+{
+    padding:2.5%;
+    background-color:#2C365E;
+    color: rgb(198, 188, 188);
+}
+
+#Ferrari 
+{
+    padding:2.5%;
+    background-color:#832232;
+    color:rgb(198, 188, 188);
+}
+
+
+#Pagani
+{
+    padding:2.5%;
+    background-color:#320A28;
+    color: rgb(198, 188, 188);
+}
+#Porsche
+{
+    padding:2.5%;
+    color: rgb(180, 156, 156);
+    background-color: #738290;
+}
